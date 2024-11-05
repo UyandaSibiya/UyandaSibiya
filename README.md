@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UyandaSibiya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on Python 
+- 🌱 I am a software engineering
+- 💞️ I’m looking to collaborate on Python ,Java , Javascript
 - 📫 How to reach me uyandasibiya@gmail.com 
 
 <!---
