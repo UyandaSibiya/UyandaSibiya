@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @UyandaSibiya
-- 👀 I’m interested in coding
-- 🌱 I am a software engineering
-- 💞️ I’m looking to collaborate on Python ,Java , Javascript
-- 📫 How to reach me uyandasibiya@gmail.com 
+👋 Hi, I'm Uyanda Sibiya!
 
-<!---
-UyandaSibiya/UyandaSibiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Software Engineer | Passionate about Python, Java, and JavaScript
+
+    👀 I’m passionate about building efficient and scalable software solutions.
+
+    🌱 Currently exploring web development and backend engineering.
+
+    💼 Open to job opportunities in software development, backend engineering, and full-stack development.
+
+    🤝 Looking to collaborate on projects involving Python, Java, JavaScript, and cloud technologies.
+
+    📫 Reach me at: uyandasibiya@gmail.com
+
+Let's connect and build something great! 🚀
